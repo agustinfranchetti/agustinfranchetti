@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinfranchetti&label=Profile%20views&color=0e75b6&style=flat" alt="agustinfranchetti" /> </p>
 
-- 🌱 I’m currently learning **pydantic, react, typescript**
+- 🌱 I’m currently learning **react, ruby on rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/agustinfranchetti](https://github.com/agustinfranchetti)
 
