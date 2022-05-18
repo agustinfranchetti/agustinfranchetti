@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/agustinfranchetti](https://github.com/agustinfranchetti)
 
-- 📝My webpage is [https://agustinfranchetti.com/](https://agustinfranchetti.com/)
+- 📝My webpage is [https://agustinfranchetti.vercel.app/](https://agustinfranchetti.vercel.app/)
 
 - 💬 Ask me about **python, mongodb**
 
