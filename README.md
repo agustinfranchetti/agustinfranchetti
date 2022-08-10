@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinfranchetti&label=Profile%20views&color=0e75b6&style=flat" alt="agustinfranchetti" /> </p>
 
-- 🌱 I’m currently learning **react** and **solidity**
+- 🌱 I’m currently learning **react** and **swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/agustinfranchetti](https://github.com/agustinfranchetti)
 
 - 📝My webpage is [https://agustinfranchetti.vercel.app/](https://agustinfranchetti.vercel.app/)
 
-- 💬 Ask me about **python, mongodb**
+- 💬 Ask me about **python, javascript**
 
 - 📫 How to reach me **agustinfranchetti@gmail.com**
 
