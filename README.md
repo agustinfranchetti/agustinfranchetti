@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agustinfranchetti&label=Profile%20views&color=0e75b6&style=flat" alt="agustinfranchetti" /> </p>
 
-- 🌱 I’m currently learning **react** and **swift**
+- 🌱 I’m currently learning **TypeScript** and **swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/agustinfranchetti](https://github.com/agustinfranchetti)
 
