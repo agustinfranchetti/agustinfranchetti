@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xfrancho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agusfranchetti" height="30" width="40" /></a>
+<a href="https://twitter.com/agusfranchetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agusfranchetti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/agustín-franchetti-a98a6a105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustín-franchetti-a98a6a105" height="30" width="40" /></a>
 <a href="https://instagram.com/agustinfranchetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agustinfranchetti" height="30" width="40" /></a>
 </p>
