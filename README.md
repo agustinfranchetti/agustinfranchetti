@@ -7,7 +7,7 @@
 
 - 📝My webpage is [https://agustinfranchetti.com/](https://agustinfranchetti.com/)
 
-- 💬 Ask me about **python, javascript**
+- 💬 Ask me about **python, typescript**
 
 - 📫 How to reach me **agustinfranchetti@gmail.com**
 
