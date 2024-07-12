@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, typescript**
 
-- 📫 How to reach me **agustinfranchetti@gmail.com**
+- 📫 How to reach me [**agustinfranchetti@gmail.com**](mailto:agustinfranchetti@gmail.com?subject=Contact%20-%20Github%20Profile)
 
 - ⚡ Fun fact **I'm studying japanese**
 
