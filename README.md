@@ -7,7 +7,7 @@
 
 - 📝My webpage is [https://agustinfranchetti.com/](https://agustinfranchetti.com/)
 
-- 💬 Ask me about **python, typescript**
+- 💬 Ask me about **react, typescript, next.js**
 
 - 📫 How to reach me [**agustinfranchetti@gmail.com**](mailto:agustinfranchetti@gmail.com?subject=Contact%20-%20Github%20Profile)
 
