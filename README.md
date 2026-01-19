@@ -6,8 +6,7 @@
     🚀 Frontend fanatic • MVP enjoyer
     🌏 Big on Japan • 日本語勉強中
     🎵 Space • Music • Engineering
-    📚 Manga reader (probably right now)
-    ⛳ Golf player (maybe)
+    ⛳ Golf player (a bad one)
 </pre>
 
 <br>
