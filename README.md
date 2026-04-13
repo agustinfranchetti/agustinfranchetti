@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://pokemondb.net/pokedex/charizard"><img src="https://img.pokemondb.net/sprites/black-white/anim/back-shiny/charizard.gif" alt="Charizard" height="80" /></a><a href="https://pokemondb.net/pokedex/gengar"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif" alt="Gengar" height="60" style="vertical-align: top;" /></a>
+<a href="https://pokemondb.net/pokedex/charizard"><img src="https://img.pokemondb.net/sprites/black-white/anim/back-shiny/charizard.gif" alt="Charizard" height="140" /></a><a href="https://pokemondb.net/pokedex/gengar"><img src="https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif" alt="Gengar" height="110" style="vertical-align: top;" /></a>
 
 <br>
 
