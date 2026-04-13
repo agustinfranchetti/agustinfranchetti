@@ -6,13 +6,6 @@
 
 <div align="center">
 
-```
-🚀 Frontend fanatic • MVP enjoyer        🎵 Space • Music • Engineering
-🌏 Big on Japan • 日本語勉強中            ⛳ Golf player (a bad one)
-```
-
-<br>
-
 <a href="https://agustin.is-a.dev">
   <img src="https://img.shields.io/badge/agustin.is--a.dev-000?style=for-the-badge&logo=safari&logoColor=f740bb" alt="Website" />
 </a>

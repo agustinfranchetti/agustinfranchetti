@@ -140,6 +140,8 @@
           gap: 12px;
           margin-top: 4px;
           animation: fade-in-up 1s ease 0.7s both;
+          flex-wrap: wrap;
+          justify-content: center;
         }
 
         .badge {
@@ -155,8 +157,9 @@
           animation: float 6s ease-in-out infinite;
         }
 
-        .badge:nth-child(2) { animation-delay: -2s; }
-        .badge:nth-child(3) { animation-delay: -4s; }
+        .badge:nth-child(2) { animation-delay: -1.5s; }
+        .badge:nth-child(3) { animation-delay: -3s; }
+        .badge:nth-child(4) { animation-delay: -4.5s; }
 
         .badge-dot {
           width: 6px;
@@ -167,6 +170,7 @@
 
         .badge:nth-child(2) .badge-dot { background: var(--accent-2); }
         .badge:nth-child(3) .badge-dot { background: #23d5ab; }
+        .badge:nth-child(4) .badge-dot { background: #f7c948; }
 
         @media (prefers-color-scheme: light) {
           .scene {
@@ -211,9 +215,10 @@
           <p class="tagline">Frontend Engineer &#183; Builder &#183; Explorer</p>
           <div class="divider"></div>
           <div class="badges">
-            <div class="badge"><div class="badge-dot"></div>building things</div>
-            <div class="badge"><div class="badge-dot"></div>&#26085;&#26412;&#35486;&#21193;&#24375;&#20013;</div>
-            <div class="badge"><div class="badge-dot"></div>shipping MVPs</div>
+            <div class="badge"><div class="badge-dot"></div>frontend fanatic &#183; MVP enjoyer</div>
+            <div class="badge"><div class="badge-dot"></div>&#26085;&#26412;&#35486;&#21193;&#24375;&#20013; &#183; big on Japan</div>
+            <div class="badge"><div class="badge-dot"></div>space &#183; music &#183; engineering</div>
+            <div class="badge"><div class="badge-dot"></div>golf player (a bad one)</div>
           </div>
         </div>
       </div>
