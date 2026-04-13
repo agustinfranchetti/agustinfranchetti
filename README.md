@@ -12,9 +12,6 @@
 <a href="mailto:agustinfranchetti@gmail.com">
   <img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail&logoColor=f740bb" alt="Email" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=agustinfranchetti&style=flat-square&color=f740bb" />
+<img src="https://komarev.com/ghpvc/?username=agustinfranchetti&style=for-the-badge&color=f740bb" />
 
 </div>
