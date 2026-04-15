@@ -1,4 +1,4 @@
-<img src="header.svg" alt="Agustin Franchetti — Frontend Engineer, Builder, Explorer">
+<img src="header.svg" width="100%" alt="Agustin Franchetti — Frontend Engineer, Builder, Explorer">
 
 <div align="center">
 
